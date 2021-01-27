@@ -26,6 +26,13 @@ CNN model for recognising CAR and TRUCK.
 # Kaggle Notebook Link : ##
 
              
+# Work sample:
+
+---
+![](https://github.com/sagnik1511/Binary-Classification-in-Deep-Learning/blob/main/Car%20or%20Truck/Screenshot%20(467).png)
+---
+
+# Do ***STAR*** if you like it :)
 
             
             
